@@ -1,0 +1,2 @@
+# Keep the high score of the local game
+16
