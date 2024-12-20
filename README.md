@@ -33,7 +33,7 @@ To create a playable and visually appealing Snake Game where players can aim to 
 ---
 
 ## Screenshots
-![Snake Game Screenshot](snake_game_SC)
+![Snake Game Screenshot](snake_game_SC.png)
 
 ---
 
